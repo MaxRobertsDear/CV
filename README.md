@@ -1,29 +1,26 @@
-## Your Name
+## Max Roberts-Dear
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
-## Skills
+[My Projects](#githubProjects) -- [Formal Education](#formalEducation) -- [Informal Education](#informalEducation) -- [Professional Experience](#professionalExperience)
 
-#### This Skill
+## <a name = "githubProjects">What to check out on my Github</a>
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+### Project X
 
-- Experience
-- Achievements
-- Evidence
+Why?
+What?
+How?
 
-#### Another Skill
+### Project Y
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+Why?
+What?
+How?
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+## <a name = "formalEducation">Formal Education</a>
 
-## Education
-
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (April 2019 to current)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
@@ -34,17 +31,27 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### University of Sheffield (September 2011 to June 2016)
 
 - Subject, any specialisms
 - Grade
 - Other cool stuff
 
-#### Any other qualifications
+## <a name = "informalEducation">Informal Education</a>
 
-## Experience
+Before taking the leap into the world of software, I used online resources to see how far I could get on my own. 
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+#### Resources I used to teach myself coding (before deciding to enroll for Makers' Bootcamp)
+
+#### You Don't Know JavaScript (August 2018 to December 2018)
+
+YDKJS Series by Kyle Simpson
+
+#### FreeCodeCamp
+
+Chapters completed / what I learned / demonstrate
+
+## <a name = "professionalExperience">Professional Experience</a>
+
+**AECOM** (September 2016 to April 2019)   
+*Mechanical Engineer*  
