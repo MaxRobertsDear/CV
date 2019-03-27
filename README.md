@@ -4,6 +4,8 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 [My Projects](#githubProjects) -- [Formal Education](#formalEducation) -- [Informal Education](#informalEducation) -- [Professional Experience](#professionalExperience)
 
+---
+
 ## <a name = "githubProjects">What to check out on my Github</a>
 
 ### Project X
