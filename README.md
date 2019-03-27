@@ -43,7 +43,7 @@ How?
 
 Before taking the leap into the world of software, I used online resources to see how far I could get on my own. 
 
-#### Resources I used to teach myself coding (before deciding to enroll for Makers' Bootcamp)
+### Resources I used to teach myself coding (before deciding to enroll for Makers' Bootcamp)
 
 #### You Don't Know JavaScript (August 2018 to December 2018)
 
