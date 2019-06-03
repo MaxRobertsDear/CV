@@ -2,6 +2,8 @@
 
 #### Full Stack Developer
 
+I am a keen technologist looking for new challenges and craving innovation. Although my core competencies are in JavaScript and Ruby, I see my main asset as being my pragmatic problem solving aptitude. There are always new frameworks and technologies, but they can be learned as long as you have a good understanding of systems and patterns. I enjoy solving problems and architecting solutions, but I am of the belief that it is important to stay pragmatic and to keep in perspective that you are solving a business problem.
+
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
 ### Interests and story
