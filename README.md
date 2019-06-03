@@ -32,6 +32,14 @@ In the pursuit of a more challenging career, I decided upon Software engineering
 
 ## <a name = "formalEducation">Formal Education</a>
 
+#### Experience in the following industry best-practices: 
+
+
+- **Agile:** [Project](LINK), [Project](LINK) - Pair programming, Scrum, Sprint planning 
+- **Test- Driven Development:** [Project](LINK), [Project](LINK) - Feature tests, Unit Tests, 100% Test Coverage
+- **Unit Testing:** [Project](LINK), [Project](LINK)
+- **Automated testing/ Deployment**  - [Project](LINK), [Project](LINK) - CICD using Travis and Heroku, respectively.
+
 #### Makers Academy (April 2019 to current)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
