@@ -1,10 +1,20 @@
 ## Max Roberts-Dear
 
-#### Junior Full Stack Developer
+#### Full Stack Developer
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
-[My Projects](#githubProjects) -- [Formal Education](#formalEducation) -- [Informal Education](#informalEducation) -- [Professional Experience](#professionalExperience)
+### Interests and story
+
+Highly interested in technologies that bring about positive change. 
+
+My passion for progressive technologies motivated me to apply my knowledge of mechanics to the biochemical engineering field for the final year project of my degree. Using the skills that I acquired from my Masters of Mechanical Engineering Degree and the knowledge I gained studying biomechanics during the summer, I build a [lung-on-a-chip](LINK).
+
+Wanting to enact positive change, I sought out a career in sustainable development. Joining AECOM's building services team as an engineering consultant, I liaised with stakeholders and multidisciplinary teams to deliver energy efficient buildings on time, to spec, and on budget.
+
+In the pursuit of a more challenging career, I decided upon Software engineering (and wrote a [blog](LINK) about what led my to this decision). TLDR: more challenging, greater variation in work, faster paced environment, young (and exciting) industry.
+
+[LinkedIn](LINK) -- [Blog](LINK) -- [My Projects](#githubProjects) -- [Formal Education](#formalEducation) -- [Informal Education](#informalEducation) -- [Professional Experience](#professionalExperience) 
 
 ---
 
