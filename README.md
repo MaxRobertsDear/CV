@@ -22,17 +22,13 @@ In the pursuit of a more challenging career, I decided upon Software engineering
 
 ## <a name = "githubProjects">What to check out on my Github</a>
 
-### Project X
-
-Why?
-What?
-How?
-
-### Project Y
-
-Why?
-What?
-How?
+| Project     | Description | Technology |
+|-------------|:-------------:|:------------:|
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
 
 ## <a name = "formalEducation">Formal Education</a>
 
