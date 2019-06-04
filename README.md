@@ -38,7 +38,7 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 Highly interested in technologies that bring about positive change. 
 
-My passion for progressive technologies motivated me to apply my knowledge of mechanics to the biochemical engineering field for the final year project of my degree. Using the skills that I acquired from my Masters of Mechanical Engineering Degree and the knowledge I gained studying biomechanics during the summer, I build a [lung-on-a-chip](LINK).
+My passion for progressive technologies motivated me to apply my knowledge of mechanics to the biochemical engineering field for the final year project of my degree. Using the skills that I acquired from my Masters of Mechanical Engineering Degree and the knowledge I gained studying biomechanics during the summer, I built a [lung-on-a-chip](LINK).
 
 Wanting to enact positive change, I sought out a career in sustainable development. Joining AECOM's building services team as an engineering consultant, I liaised with stakeholders and multidisciplinary teams to deliver energy efficient buildings on time, to spec, and on budget.
 
