@@ -7,16 +7,14 @@
 
 I am a keen technologist looking for new challenges and craving innovation. Although my core competencies are in JavaScript and Ruby, my main asset is my pragmatic problem solving aptitude. There are always new frameworks and technologies, but these can be learned if you have a good understanding of systems and patterns. I enjoy solving problems and architecting solutions and my years of experience as an engineering consultant have taught me the importance of keeping the business problem that you are trying to solve in perspective.
 
-#### What I'm looking for
-
-**In a job role**
+#### What I'm looking for in a job role
 
 * An opportunity to contribute from day 1. 
 * An opportunity to enact measurable change.
 * To see projects from concept to delivery.
 * Different challenges from week to week.
 
-**In a team**
+#### What I'm looking for in a team
 
 * A collaborative environment where alternative schools of thought are valued.
 * An environment that celebrates innovation by sharing new ideas with the wider tech community via Meetups. If this is not something that is currently offered but is being considered, then I have experience in organising events and have links with influential speakers, especially for front-end development. 
@@ -46,7 +44,7 @@ I am a keen technologist looking for new challenges and craving innovation. Alth
 #### Problem Solving
 - With a background in engineering, my creative problem solving and analytical skills were developed during my MEng Mechanical Engineering. These skills were then honed throughout my years working as an engineering consultant. The intensive software engineering course at Makers Academy provided an environment for me to adapt these core skills to building web applications. 
 - During my time as an engineering consultant, I liaised with clients and developed pragmatic engineering solutions to meet the scope of their requirements. Working with progressive architects (such as Calatrava), this included designing [novel solutions](https://www.greenwichpeninsula.co.uk/whats-on/the-peninsulist/peninsula-place/) in order to deliver the desired aesthetic of a building. 
-- Developed industry best practices in approaching new challenges by adopting [Extreme Programming Values](http://www.extremeprogramming.org/values.html) and agile working methodologies during my time working on group projects at Makers Academy ([example documentation](https://github.com/MaxRobertsDear/acebook-Isambard/wiki) 
+- Developed industry best practices in approaching new challenges by adopting [Extreme Programming Values](http://www.extremeprogramming.org/values.html) and agile working methodologies during my time working on group projects at Makers Academy [example documentation](https://github.com/MaxRobertsDear/acebook-Isambard/wiki) 
 
 #### Independent Learner
 - Autonomous learner - demonstrated by my taking initiative to to learn Ruby-on-Rails, JavaScript, React and fundamental Machine Learning patterns.
