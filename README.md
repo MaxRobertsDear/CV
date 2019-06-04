@@ -19,7 +19,7 @@ I am a keen technologist looking for new challenges and craving innovation. Alth
 **In a team**
 
 * A collaborative environment where alternative schools of thought are valued.
-* An environment that celebrates innovation by sharing new ideas with the wider tech community via Meetups. If this is not something that is currently offered but is being considered, then I have experience in organising events and have links with influencial speakers, especially for front-end development. 
+* An environment that celebrates innovation by sharing new ideas with the wider tech community via Meetups. If this is not something that is currently offered but is being considered, then I have experience in organising events and have links with influential speakers, especially for front-end development. 
 * A team that prides itself on staying ahead of the curve and uses the latest tools available. I took charge of organising the Continual Professional Development (CPD's) at my previous firm, and would be happy to do so again to ensure that the team is aware of the latest trends and industry practices. 
 * A social environment - if we are to work together 40+ hours per week, I want to know the team members as more than colleagues. Not got a big drinking culture? That's fine. Climbing and white water rafting are just as fun!
 
@@ -49,7 +49,7 @@ I am a keen technologist looking for new challenges and craving innovation. Alth
 - Developed industry best practices in approaching new challenges by adopting [Extreme Programming Values](http://www.extremeprogramming.org/values.html) and agile working methodologies during my time working on group projects at Makers Academy ([example documentation](https://github.com/MaxRobertsDear/acebook-Isambard/wiki) 
 
 #### Independent Learner
-- Autonomous learner - demonstrated by my taking initiatite to to learn Ruby-on-Rails, JavaScript, React and basic Machine Learning patterns.
+- Autonomous learner - demonstrated by my taking initiative to to learn Ruby-on-Rails, JavaScript, React and fundamental Machine Learning patterns.
 - Passion to learn exciting modern technologies with an experience working with web development stack.
 - Enjoy working in a collaborative environment where new ideas are valued.
 
