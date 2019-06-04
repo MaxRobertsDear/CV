@@ -88,11 +88,6 @@ Rigirous understanding of Test-Driven Development
 - OOP, TDD, MVC
 - Agile, Extreme Programming
 
-#### MEng in Electronics & Electrical Engineering: Loughborough University ( 2012 - 2017) 
-Relevant modules: Software & Programming, Computer Security, Digital Electronics & Computer Networks.
-
-Studying MEng Electronics & Electrical engineering developed my creative problem solving and analytical skills. These are exemplified in my final year project, for which I applied technical skills in digital logic design, software and hardware to build a [remote-controlled autonomous car](https://github.com/k-ankobia/RC-Self-Driving-Car).
-
 #### MEng in Mechanical Engineering: University of Sheffield (September 2011 to June 2016)
 Software related modules: Essential Mathematics Skills and Techniques (Grade achieved: 1st), Computational Mathematics (Grade achieved: 1st), Mathematics for Engineering Modelling (Grade achieved: 1st), 
 
