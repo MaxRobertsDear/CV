@@ -70,24 +70,40 @@ In the pursuit of a more challenging career, I decided upon Software engineering
 ## <a name = "education">Education</a>
 
 
-#### Makers Academy (April 2019 to current)
+#### Software Engineering Course: Makers Academy (2019)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+Makers Academy honed my skills in applying a systematic approach to solving new problems using industry-best practices.
+Rigirous understanding of Test-Driven Development
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### Technologies
 
-#### University of Sheffield (September 2011 to June 2016)
+- Ruby, JavaScript, HTML & CSS, React
+- Node, Rails
+- Express, Sinatra
+- RSpec, Jasmine, Testing without libraries, Cypress, Enzyme
+- PostgresQL
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+#### Methodologies
+
+- OOP, TDD, MVC
+- Agile, Extreme Programming
+
+#### MEng in Electronics & Electrical Engineering: Loughborough University ( 2012 - 2017) 
+Relevant modules: Software & Programming, Computer Security, Digital Electronics & Computer Networks.
+
+Studying MEng Electronics & Electrical engineering developed my creative problem solving and analytical skills. These are exemplified in my final year project, for which I applied technical skills in digital logic design, software and hardware to build a [remote-controlled autonomous car](https://github.com/k-ankobia/RC-Self-Driving-Car).
+
+#### MEng in Mechanical Engineering: University of Sheffield (September 2011 to June 2016)
+Software related modules: Essential Mathematics Skills and Techniques (Grade achieved: 1st), Computational Mathematics (Grade achieved: 1st), Mathematics for Engineering Modelling (Grade achieved: 1st), 
+
+Studying MEng Mechanical engineering developed my creative problem solving and analytical skills. These are exemplified in my final year project, for which I employed fundamental engineering principles to mimic human physiology by subjecting human cells to the mechanical forces that they are subjected to *in vivo*. [Lung-on-a-chip](Link).
 
 ## <a name = "professionalExperience">Professional Experience</a>
 
-**AECOM** (September 2016 to April 2019)   
-*Mechanical Engineer*  
+#### Mechanical Engineering Consultant (London September 2016 to April 2019)
+During my 2.5 years working as an engineering consultant at AECOM, ranked number 1 in the Engineering News Record, I liaised with stakeholders and designed engineering solutions to meet the scope of their requirements.
+
+- Collaborated with engineers, contractors and architects to design the mechanical infrastructure for commercial and residential building projects as well as mission-critical projects such as data centres.
+- Developed models and calculations to carry out energy efficiency assessments and cost planning in order to deliver effective professional services and drive efficient solutions.
+- Led mechanical design and built 3D models to support energy efficiency calculations and to communicate design intent to clients and architects.
+- Chaired meetings with clients and workshops with other engineering disciplines to confirm project requirements.
