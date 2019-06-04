@@ -1,11 +1,27 @@
+[LinkedIn](LINK) | [Blog](LINK) | [Projects](#githubProjects) | [Skills](#skills) | [What Drives Me](#drivers) | [Education](#education) | [Professional Experience](#professionalExperience) 
+---
+
 ## Max Roberts-Dear
 
 #### Full Stack Developer
 
 I am a keen technologist looking for new challenges and craving innovation. Although my core competencies are in JavaScript and Ruby, my main asset is my pragmatic problem solving aptitude. There are always new frameworks and technologies, but these can be learned if you have a good understanding of systems and patterns. I enjoy solving problems and architecting solutions and my years of experience as an engineering consultant have taught me the importance of keeping the business problem that you are trying to solve in perspective.
 
-[LinkedIn](LINK) | [Blog](LINK) | [Projects](#githubProjects) | [Skills](#skills) | [What Drives Me](#drivers) | [Education](#education) | [Professional Experience](#professionalExperience) 
----
+#### What I'm looking for
+
+**In a job role**
+
+* An opportunity to contribute from day 1. 
+* An opportunity to enact measurable change.
+* To see projects from concept to delivery.
+* Different challenges from week to week.
+
+**In a team**
+
+* A collaborative environment where alternative schools of thought are valued.
+* An environment that celebrates innovation by sharing new ideas with the wider tech community via Meetups. If this is not something that is currently offered but is being considered, then I have experience in organising events and have links with influencial speakers, especially for front-end development. 
+* A team that prides itself on staying ahead of the curve and uses the latest tools available. I took charge of organising the Continual Professional Development (CPD's) at my previous firm, and would be happy to do so again to ensure that the team is aware of the latest trends and industry practices. 
+* A social environment - if we are to work together 40+ hours per week, I want to know the team members as more than colleagues. Not got a big drinking culture? That's fine. Climbing and white water rafting are just as fun!
 
 ## <a name = "githubProjects">Projects</a>
 
@@ -20,23 +36,22 @@ I am a keen technologist looking for new challenges and craving innovation. Alth
 
 ## <a name = "skills">Skills</a>
 
-#### Experience in the following industry best-practices:
+#### Experience in the following industry best practices:
 
-- **Agile:** [Acebook](https://github.com/MaxRobertsDear/acebook-Isambard) - Pair programming, Mobbing, Scrum, Sprint planning (see [Wiki](https://github.com/MaxRobertsDear/acebook-Isambard/wiki#week2Wednesday))
+- **Agile:** [Acebook](https://github.com/MaxRobertsDear/acebook-Isambard) - Pair programming, Mobbing, Scrum, Sprint planning (see [Wiki](https://github.com/MaxRobertsDear/acebook-Isambard/wiki))
 - **Test- Driven Development:** [Bank-Tech-Test](LINK) - Feature tests, Unit Tests, 100% Test Coverage
 - **Unit Testing:** [Echo-Tech-Test](LINK) - Mocks, Stubs
 - **Automated Testing & Deployment**  - [Acebook](https://github.com/MaxRobertsDear/acebook-Isambard) - CICD using Travis and Heroku, respectively.
 
 #### Problem Solving
-- Creative problem solver and analytical skills, studying MEng Electronics & Electrical. engineering, I have applied technical skills in digital logic design, software and hardware. 
-- Working as an engineering consultant, I liaise with stakeholders and design engineering solutions to meet the scope of their requirements. 
-- Honed and apply a systematic approach to solving new problems using good industry practices at makers academy.
+- With a background in engineering, my creative problem solving and analytical skills were developed during my MEng Mechanical Engineering. These skills were then honed throughout my years working as an engineering consultant. The intensive software engineering course at Makers Academy provided an environment for me to adapt these core skills to building web applications. 
+- During my time as an engineering consultant, I liaised with clients and developed pragmatic engineering solutions to meet the scope of their requirements. Working with progressive architects (such as Calatrava), this included designing [novel solutions](https://www.greenwichpeninsula.co.uk/whats-on/the-peninsulist/peninsula-place/) in order to deliver the desired aesthetic of a building. 
+- Developed industry best practices in approaching new challenges by adopting [Extreme Programming Values](http://www.extremeprogramming.org/values.html) and agile working methodologies during my time working on group projects at Makers Academy ([example documentation](https://github.com/MaxRobertsDear/acebook-Isambard/wiki) 
 
 #### Independent Learner
-- Work autonomously - demonstrated by my taking initiatite to to Self-learn python, javascript, C to deliver electronics projects & build automation tools. 
-- Enjoy working in a collaborative environment where new ideas are valued.
-- Language agnostic and can apply software patterns/principles in rails, javascript, react to deliver makers academy projects. 
+- Autonomous learner - demonstrated by my taking initiatite to to learn Ruby-on-Rails, JavaScript, React and basic Machine Learning patterns.
 - Passion to learn exciting modern technologies with an experience working with web development stack.
+- Enjoy working in a collaborative environment where new ideas are valued.
 
 ## <a name = "drivers">What Drives Me - Motivations and Background</a> 
 
