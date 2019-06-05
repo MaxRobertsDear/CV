@@ -3,7 +3,7 @@
 
 ## Max Roberts-Dear
 
-#### Full Stack Developer
+#### Full Stack JavaScript Developer
 
 I am a keen technologist looking for new challenges and craving innovation. Although my core competencies are in JavaScript and Ruby, my main asset is my pragmatic problem solving aptitude. There are always new frameworks and technologies, but these can be learned if you have a good understanding of systems and patterns. I enjoy solving problems and architecting solutions and my years of experience as an engineering consultant have taught me the importance of keeping the business problem that you are trying to solve in perspective.
 
@@ -19,9 +19,12 @@ I am a keen technologist looking for new challenges and craving innovation. Alth
 #### What I'm looking for in a team
 
 * A collaborative environment where alternative schools of thought are valued.
-* An environment that celebrates innovation by sharing new ideas with the wider tech community via Meetups. If this is not something that is currently offered but is being considered, then I have experience in organising events and have links with influential speakers, especially for front-end development. 
-* A team that prides itself on staying ahead of the curve and uses the latest tools available. I took charge of organising the Continual Professional Development (CPD's) at my previous firm, and would be happy to do so again to ensure that the team is aware of the latest trends and industry practices. 
-* A social environment - if we are to work together 40+ hours per week, I want to know the team members as more than colleagues. Not got a big drinking culture? That's fine. Climbing and white water rafting are just as fun!
+* An environment that celebrates innovation by sharing new ideas with the wider tech community via Meetups. 
+  * If this is not something that is currently offered but is being considered, then I have experience in organising events and have links with influential speakers, especially for front-end development. 
+* A team that prides itself on staying ahead of the curve and uses the latest tools available. 
+  * I took charge of organising the Continual Professional Development (CPD's) at my previous firm, and would be happy to do so again to ensure that the team is aware of the latest trends and industry practices. 
+* A social environment - if we are to work together 40+ hours per week, I want to know the team members as more than colleagues. 
+  * Not got a big drinking culture? That's fine. Climbing and white water rafting are just as fun!
 
 
 
@@ -42,22 +45,18 @@ I am a keen technologist looking for new challenges and craving innovation. Alth
 
 #### Experience in the following industry best practices:
 
-- **Agile:** [Acebook](https://github.com/MaxRobertsDear/acebook-Isambard) - Pair programming, Mobbing, Scrum, Sprint planning (see [Wiki](https://github.com/MaxRobertsDear/acebook-Isambard/wiki))
-- **Test- Driven Development:** [Bank-Tech-Test](LINK) - Feature tests, Unit Tests, 100% Test Coverage
-- **Unit Testing:** [Echo-Tech-Test](LINK) - Mocks, Stubs
-- **Automated Testing & Deployment**  - [Acebook](https://github.com/MaxRobertsDear/acebook-Isambard) - CICD using Travis and Heroku, respectively.
+* **Agile:** [Acebook](https://github.com/MaxRobertsDear/acebook-Isambard) - Pair programming, Mobbing, Scrum, Sprint planning (see [Wiki](https://github.com/MaxRobertsDear/acebook-Isambard/wiki))
+* **Test- Driven Development:** [Bank-Tech-Test](LINK) - Feature tests, Unit Tests, 100% Test Coverage
+* **Unit Testing:** [Echo-Tech-Test](LINK) - Mocks, Stubs
+* **Automated Testing & Deployment**  - [Acebook](https://github.com/MaxRobertsDear/acebook-Isambard) - CICD using Travis and Heroku, respectively.
 
 
 #### Problem Solving
-- With a background in engineering, my creative problem solving and analytical skills were developed during my MEng Mechanical Engineering. These skills were then honed throughout my years working as an engineering consultant. The intensive software engineering course at Makers Academy provided an environment for me to adapt these core skills to building web applications. 
-- During my time as an engineering consultant, I liaised with clients and developed pragmatic engineering solutions to meet the scope of their requirements. Working with progressive architects (such as Calatrava), this included designing [novel solutions](https://www.greenwichpeninsula.co.uk/whats-on/the-peninsulist/peninsula-place/) in order to deliver the desired aesthetic of a building. 
-- Developed industry best practices in approaching new challenges by adopting [Extreme Programming Values](http://www.extremeprogramming.org/values.html) and agile working methodologies during my time working on group projects at Makers Academy [example documentation](https://github.com/MaxRobertsDear/acebook-Isambard/wiki) 
-
-
-#### Independent Learner
-- Autonomous learner - demonstrated by my taking initiative to to learn Ruby-on-Rails, JavaScript, React and fundamental Machine Learning patterns.
-- Passion to learn exciting modern technologies with an experience working with web development stack.
-- Enjoy working in a collaborative environment where new ideas are valued.
+* With a background in engineering, my creative problem solving and analytical skills were developed during my MEng Mechanical Engineering. These skills were then honed throughout my years working as an engineering consultant. 
+  * The intensive software engineering course at Makers Academy provided an environment for me to adapt these core skills to building web applications. 
+* During my time as an engineering consultant, I liaised with clients and developed pragmatic engineering solutions to meet the scope of their requirements. 
+  * Working with progressive architects (such as Calatrava), this included designing [novel solutions](https://www.greenwichpeninsula.co.uk/whats-on/the-peninsulist/peninsula-place/) in order to deliver the desired aesthetic of a building. 
+* Developed industry best practices in approaching new challenges by adopting [Extreme Programming Values](http://www.extremeprogramming.org/values.html) and agile working methodologies during my time working on group projects at Makers Academy [example documentation](https://github.com/MaxRobertsDear/acebook-Isambard/wiki) 
 
 
 
@@ -82,8 +81,13 @@ In the pursuit of a more challenging career, I decided upon Software engineering
 
 #### Software Engineering Course: Makers Academy (2019)
 
-Makers Academy honed my skills in applying a systematic approach to solving new problems using industry-best practices.
-Rigirous understanding of Test-Driven Development
+The self-led curriculum at Makers Academy developed my skills in applying a methodical approach to solving new problems using industry best practice. 
+
+
+#### Methodologies
+
+- OOP, TDD, MVC
+- Agile, Extreme Programming
 
 
 #### Technologies
@@ -95,14 +99,9 @@ Rigirous understanding of Test-Driven Development
 - PostgresQL
 
 
-#### Methodologies
-
-- OOP, TDD, MVC
-- Agile, Extreme Programming
-
 
 #### MEng in Mechanical Engineering: University of Sheffield (September 2011 to June 2016)
-Software related modules: Essential Mathematics Skills and Techniques (Grade achieved: 1st), Computational Mathematics (Grade achieved: 1st), Mathematics for Engineering Modelling (Grade achieved: 1st), 
+###### Software related modules: Essential Mathematics Skills and Techniques (Grade achieved: 1st), Computational Mathematics (Grade achieved: 1st), Mathematics for Engineering Modelling (Grade achieved: 1st)
 
 At university, I cemented my aptitude for problem solving. My ability to break computational challenges down into simple steps is exemplified by the high grades achieved across the board in Mathematics. 
 
@@ -113,7 +112,7 @@ This aptitude has served me well when thinking about algorithm design. Given a p
 ## <a name = "professionalExperience">Professional Experience</a>
 
 #### Mechanical Engineering Consultant (London September 2016 to April 2019)
-During my 2.5 years working as an engineering consultant at AECOM, ranked number 1 in the Engineering News Record, I liaised with stakeholders and designed engineering solutions to meet the scope of their requirements.
+During my 2.5 years working as an engineering consultant at AECOM, ranked number 1 in the Engineering News Record, I liaised with clients and designed engineering solutions to meet the scope of their requirements.
 
 - Collaborated with engineers, contractors and architects to design the mechanical infrastructure for commercial and residential building projects as well as mission-critical projects such as data centres.
 - Developed models and calculations to carry out energy efficiency assessments and cost planning in order to deliver effective professional services and drive efficient solutions.
