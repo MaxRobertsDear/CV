@@ -51,14 +51,6 @@ I am a keen technologist looking for new challenges and craving innovation. Alth
 * **Automated Testing & Deployment**  - [Acebook](https://github.com/MaxRobertsDear/acebook-Isambard) - CICD using Travis and Heroku, respectively.
 
 
-#### Problem Solving
-* With a background in engineering, my creative problem solving and analytical skills were developed during my MEng Mechanical Engineering. These skills were then honed throughout my years working as an engineering consultant. 
-  * The intensive software engineering course at Makers Academy provided an environment for me to adapt these core skills to building web applications. 
-* During my time as an engineering consultant, I liaised with clients and developed pragmatic engineering solutions to meet the scope of their requirements. 
-  * Working with progressive architects (such as Calatrava), this included designing [novel solutions](https://www.greenwichpeninsula.co.uk/whats-on/the-peninsulist/peninsula-place/) in order to deliver the desired aesthetic of a building. 
-* Developed industry best practices in approaching new challenges by adopting [Extreme Programming Values](http://www.extremeprogramming.org/values.html) and agile working methodologies during my time working on group projects at Makers Academy [example documentation](https://github.com/MaxRobertsDear/acebook-Isambard/wiki) 
-
-
 
 ## <a name = "drivers">What Drives Me - Motivations and Background</a> 
 
