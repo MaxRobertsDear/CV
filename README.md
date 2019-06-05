@@ -84,13 +84,13 @@ In the pursuit of a more challenging career, I decided upon Software engineering
 The self-led curriculum at Makers Academy developed my skills in applying a methodical approach to solving new problems using industry best practice. 
 
 
-#### Methodologies
+##### Methodologies
 
 - OOP, TDD, MVC
 - Agile, Extreme Programming
 
 
-#### Technologies
+##### Technologies
 
 - Ruby, JavaScript, HTML & CSS, React
 - Node, Rails
@@ -101,7 +101,7 @@ The self-led curriculum at Makers Academy developed my skills in applying a meth
 
 
 #### MEng in Mechanical Engineering: University of Sheffield (September 2011 to June 2016)
-###### Software related modules: Essential Mathematics Skills and Techniques (Grade achieved: 1st), Computational Mathematics (Grade achieved: 1st), Mathematics for Engineering Modelling (Grade achieved: 1st)
+##### Software related modules: Essential Mathematics Skills and Techniques (Grade achieved: 1st), Computational Mathematics (Grade achieved: 1st), Mathematics for Engineering Modelling (Grade achieved: 1st)
 
 At university, I cemented my aptitude for problem solving. My ability to break computational challenges down into simple steps is exemplified by the high grades achieved across the board in Mathematics. 
 
