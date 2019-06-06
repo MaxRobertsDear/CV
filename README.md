@@ -30,13 +30,13 @@ I am a keen technologist looking for new challenges and craving innovation. Alth
 
 ## <a name = "githubProjects">Projects</a>
 
-| Project     | Description | Technologies | Testing |
-|-------------|:-------------:|:------------:| :------------:|
-| | | | | 
-| | | | |
-| | | | |
-| | | | |
-| | | | |
+| Project     | Description | Demo | Technologies | Testing |
+|-------------|:-------------:|:------------:| :------------:| :------------:|
+| | | | | |
+| | | | | |
+| | | | | |
+| | | | | |
+| | | | | |
 
 
 
