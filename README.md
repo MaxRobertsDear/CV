@@ -84,7 +84,12 @@ The self-led curriculum at Makers Academy developed my skills in applying a meth
 
 
 #### MEng in Mechanical Engineering: University of Sheffield (September 2011 to June 2016)
-##### Software related modules: Essential Mathematics Skills and Techniques (Grade achieved: 1st), Computational Mathematics (Grade achieved: 1st), Mathematics for Engineering Modelling (Grade achieved: 1st)
+| Module | Grade |
+| :----: | :---: |
+| Essential Mathematics Skills and Techniques | 1st |
+| Computational Mathematics | 1st |
+| Mathematics for Engineering Modelling | 1st |
+
 
 * Cemented my aptitude for problem solving. 
 * Strengthened my ability to break computational challenges down into simple steps.  
