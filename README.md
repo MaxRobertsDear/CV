@@ -81,10 +81,7 @@ In the pursuit of a more challenging career, I decided upon Software engineering
 
 #### Software Engineering Course: Makers Academy (2019)
 
-The self-led curriculum at Makers Academy developed my skills in applying a methodical approach to solving new problems using industry best practice. 
-
-
-##### Methodologies
+The self-led curriculum at Makers Academy developed my skills in applying a methodical approach to solving new problems using industry best practice:
 
 * [OOP](BLOGLINK), [TDD](BLOGLINK), [MVC](BLOGLINK)
 * [Agile](BLOGLINK), [Extreme Programming](BLOGLINK)
