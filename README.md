@@ -78,8 +78,8 @@ The self-led curriculum at Makers Academy developed my skills in applying a meth
 
 ##### Methodologies
 
-* OOP, TDD, MVC
-* Agile, Extreme Programming
+* [OOP](BLOGLINK), [TDD](BLOGLINK), [MVC](BLOGLINK)
+* [Agile](BLOGLINK), [Extreme Programming](BLOGLINK)
 
 
 
