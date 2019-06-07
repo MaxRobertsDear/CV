@@ -11,10 +11,10 @@ I am a keen technologist looking for new challenges and craving innovation. Alth
 
 #### What I'm looking for in a job role
 
-* An opportunity to contribute from day 1. 
-* An opportunity to enact measurable change.
+* To contribute from day 1. 
+* To enact measurable change.
 * To see projects from concept to delivery.
-* Different challenges from week to week.
+* To face new challenges, regularly.
 
 #### What I'm looking for in a team
 
