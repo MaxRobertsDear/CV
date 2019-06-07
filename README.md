@@ -1,4 +1,4 @@
-[LinkedIn](LINK) | [Blog](LINK) | [Projects](#githubProjects) | [Skills](#skills) | [What Drives Me](#drivers) | [Education](#education) | [Professional Experience](#professionalExperience) 
+[LinkedIn](https://www.linkedin.com/in/maxrobertsdear/) | [Blog](LINK) | [Projects](#githubProjects) | [Skills](#skills) | [What Drives Me](#drivers) | [Education](#education) | [Professional Experience](#professionalExperience) 
 ---
 
 ## Max Roberts-Dear
