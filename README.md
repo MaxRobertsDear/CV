@@ -56,15 +56,23 @@ I am a keen technologist looking for new challenges and craving innovation. Alth
 
 Highly interested in technologies that bring about positive change. 
 
-My passion for progressive technologies motivated me to apply my knowledge of mechanics to the biochemical engineering field for the final year project of my degree. Using the skills that I acquired from my Masters of Mechanical Engineering course and the knowledge I gained studying biomechanics during the summer, I built a [lung-on-a-chip](LINK).
+**Master's Final Year Project**  
+My passion for progressive technologies motivated me to build a [lung-on-a-chip](https://www.linkedin.com/in/maxrobertsdear/#experience-section) (see Experience Section - Research Assistant.)
 
-**Relevance to software engineering:** I developed the skill of learning by context. For example, I had never worked with human cells before and these formed an intrinsic part of my project. Knowing exactly what type of cells I needed and what I wanted to do with them (ensure good adhesion to a membrane that I fabricated using a laser as well as subject the cells to the mechanical forces that mimic the forces they would experience in the human body), I was able to acquire the knowledge I needed without having to read the whole book on cell biology. 
+* Learning by context - I developed the skill of focussing my learning when faced with an unfamiliar discipline. 
+* Prototyping - I fabricated a simple example to familiarise myself with the process before adding complexity. 
+* Collaborative growth - though I completed the project alone, I reached out for guidance in lab methodologies. 
 
-Wanting to enact positive change, I sought out a career in sustainable development. Joining AECOM's building services team as an engineering consultant, I liaised with stakeholders and multi-disciplinary teams to deliver energy efficient buildings on time, to spec, and on budget.
+**Engineering Consultant**  
+To enact positive change, I sought out a career in sustainable development. 
 
-**Relevance to software engineering:** working to tight deadlines sharpened my communication skills within multi-disciplinary teams. My aptitude for communicating technical information to an audience without the relevant background was quickly recognised by my line-manager and resulted in me representing AECOM at client meetings and leading the mechanical discipline at workshops with architects, structural, and electrical engineers. 
+* Communication - I liaised with stakeholders and multi-disciplinary teams to deliver energy efficient buildings on time, to spec, and on budget.
+* Presentation - I produced content for and presented at client meetings.
+* Workshops -  I led the mechanical discipline at external project workshops with multi-disciplinary teams.
 
-In the pursuit of a more challenging career, I decided upon Software engineering (and wrote a [blog post](LINK) about what led my to this decision). TLDR: more challenging, greater variation in work, faster paced environment, young (and exciting) industry.
+**New Challenge: Software Engineering**  
+In the pursuit of a more challenging career, I decided upon Software engineering (and wrote a [blog post](LINK) about it). 
+* TLDR: more challenging, greater variation in work, faster paced environment, young (and exciting) industry.
 
 
 
