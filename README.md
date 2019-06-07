@@ -82,15 +82,6 @@ The self-led curriculum at Makers Academy developed my skills in applying a meth
 * Agile, Extreme Programming
 
 
-##### Technologies
-
-* Ruby, JavaScript, HTML & CSS, React
-* Node, Rails
-* Express, Sinatra
-* RSpec, Jasmine, Testing without libraries, Cypress, Enzyme
-* PostgresQL
-
-
 
 #### MEng in Mechanical Engineering: University of Sheffield (September 2011 to June 2016)
 ##### Software related modules: Essential Mathematics Skills and Techniques (Grade achieved: 1st), Computational Mathematics (Grade achieved: 1st), Mathematics for Engineering Modelling (Grade achieved: 1st)
