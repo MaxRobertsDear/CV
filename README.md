@@ -18,12 +18,12 @@ I am a keen technologist looking for new challenges and craving innovation. Alth
 
 #### What I'm looking for in a team
 
-* A collaborative environment where alternative schools of thought are valued.
-* An environment that celebrates innovation by sharing new ideas with the wider tech community via Meetups. 
-  * If this is not something that is currently offered but is being considered, then I have experience in organising events and have links with influential speakers, especially for front-end development. 
-* A team that prides itself on staying ahead of the curve and uses the latest tools available. 
-  * I took charge of organising the Continual Professional Development (CPD's) at my previous firm, and would be happy to do so again to ensure that the team is aware of the latest trends and industry practices. 
-* A social environment - if we are to work together 40+ hours per week, I want to know the team members as more than colleagues. 
+* Collaborative environment - where alternative schools of thought are valued.
+* Celebrated innovation -  through the sharing of new ideas with the wider tech community via Meetups. 
+  * Not done currently? I have experience in organising events and would love to kickstart this.
+* Technologically relevent - by staying up to date with the latest tools and industry best practice. 
+  * I organised the Continual Professional Development at my previous firm, and would happily do so again.
+* Social environment - I want to know the team members as more than colleagues. 
   * Not got a big drinking culture? That's fine. Climbing and white water rafting are just as fun!
 
 
