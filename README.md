@@ -78,26 +78,30 @@ The self-led curriculum at Makers Academy developed my skills in applying a meth
 
 ##### Methodologies
 
-- OOP, TDD, MVC
-- Agile, Extreme Programming
+* OOP, TDD, MVC
+* Agile, Extreme Programming
 
 
 ##### Technologies
 
-- Ruby, JavaScript, HTML & CSS, React
-- Node, Rails
-- Express, Sinatra
-- RSpec, Jasmine, Testing without libraries, Cypress, Enzyme
-- PostgresQL
+* Ruby, JavaScript, HTML & CSS, React
+* Node, Rails
+* Express, Sinatra
+* RSpec, Jasmine, Testing without libraries, Cypress, Enzyme
+* PostgresQL
 
 
 
 #### MEng in Mechanical Engineering: University of Sheffield (September 2011 to June 2016)
 ##### Software related modules: Essential Mathematics Skills and Techniques (Grade achieved: 1st), Computational Mathematics (Grade achieved: 1st), Mathematics for Engineering Modelling (Grade achieved: 1st)
 
-At university, I cemented my aptitude for problem solving. My ability to break computational challenges down into simple steps is exemplified by the high grades achieved across the board in Mathematics. 
+* Cemented my aptitude for problem solving. 
+* Strengthened my ability to break computational challenges down into simple steps.  
+  * Exemplified by the high grades achieved across the board in Mathematics. 
 
-This aptitude has served me well when thinking about algorithm design. Given a problem, I break the logic required to return the desired output for a given input into increasingly smaller steps. I continue this process until I am happy that I can write the code required to compute a step on a single line of code.
+This aptitude has served me well in algorithm design. 
+
+Given a problem, I break the logic down into increasingly smaller steps. I continue this process until I am happy that I can write the code required to compute a step on a single line of code (e.g. [Echo-Challenge](LINK).
 
 
 
