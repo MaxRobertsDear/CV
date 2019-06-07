@@ -99,9 +99,7 @@ The self-led curriculum at Makers Academy developed my skills in applying a meth
 * Strengthened my ability to break computational challenges down into simple steps.  
   * Exemplified by the high grades achieved across the board in Mathematics. 
 
-This aptitude has served me well in algorithm design. 
-
-Given a problem, I break the logic down into increasingly smaller steps. I continue this process until I am happy that I can write the code required to compute a step on a single line of code (e.g. [Echo-Challenge](LINK).
+This aptitude has served me well in algorithm design. I break the logic down into increasingly smaller steps. I continue this process until the code required to compute a step can be written on a single line (e.g. [Echo-Challenge](LINK)).
 
 
 
