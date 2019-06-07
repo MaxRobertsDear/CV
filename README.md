@@ -57,7 +57,7 @@ I am a keen technologist looking for new challenges and craving innovation. Alth
 Highly interested in technologies that bring about positive change. 
 
 **Master's Final Year Project**  
-My passion for progressive technologies motivated me to build a [lung-on-a-chip](https://www.linkedin.com/in/maxrobertsdear/#experience-section) (see Experience Section - Research Assistant.)
+My passion for progressive technologies led me to build a [lung-on-a-chip](https://www.linkedin.com/in/maxrobertsdear/#experience-section) (Experience Section - Research Assistant.)
 
 * Learning by context - I developed the skill of focussing my learning when faced with an unfamiliar discipline. 
 * Prototyping - I fabricated a simple example to familiarise myself with the process before adding complexity. 
