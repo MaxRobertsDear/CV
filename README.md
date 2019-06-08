@@ -59,8 +59,9 @@ Highly interested in technologies that bring about positive change.
 **Master's Final Year Project**  
 My passion for progressive technologies led me to build a [lung-on-a-chip](https://www.linkedin.com/in/maxrobertsdear/#experience-section) (Experience Section - Research Assistant).
 
-* Learning by context - I developed the skill of focussing my learning when faced with an unfamiliar discipline. 
+* Rapid learning - I learned an entirely new discipline, biochemical engineering, for my final year project. 
 * Prototyping - I fabricated a simple example to familiarise myself with the process before adding complexity. 
+* Attention to detail - I was working to the micro mm (1×10^−6 m) to ensure a laminar flow along the channels.
 * Collaborative growth - though I completed the project alone, I reached out for guidance in lab methodologies. 
 
 **Engineering Consultant**  
