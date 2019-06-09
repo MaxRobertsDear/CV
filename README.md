@@ -84,8 +84,11 @@ In the pursuit of a more challenging career, I decided upon Software engineering
 
 The self-led curriculum at Makers Academy developed my skills in applying a methodical approach to solving new problems using industry best practice:
 
-* [OOP](BLOGLINK), [TDD](BLOGLINK), [MVC](BLOGLINK)
-* [Agile](BLOGLINK), [Extreme Programming](BLOGLINK)
+* [OOP](BLOGLINK) [TDD](BLOGLINK), [MVC](BLOGLINK)
+* [Agile](BLOGLINK), [Extreme Programming (XP)](BLOGLINK)
+* Version control software (Git) experience. 
+* Understanding of web standards accessibility and best practice.
+
 
 
 
@@ -110,7 +113,11 @@ This aptitude has served me well in algorithm design. I break the logic down int
 #### Mechanical Engineering Consultant (London September 2016 to April 2019)
 During my 2.5 years working as an engineering consultant at AECOM, ranked number 1 in the Engineering News Record, I liaised with clients and designed engineering solutions to meet the scope of their requirements.
 
+- Mentored junior engineers by sharing my knowledge and helping them to deliver in line with industry best practice.
+- Responsible for technical delivery of projects by collaborating with other disciplines to design scalable solutions.
+- Continually improved our design process and solutions by arranging CPDs.
+- Wrote technical reports for clients.
 - Collaborated with engineers, contractors and architects to design the mechanical infrastructure for commercial and residential building projects as well as mission-critical projects such as data centres.
 - Developed models and calculations to carry out energy efficiency assessments and cost planning in order to deliver effective professional services and drive efficient solutions.
-- Led mechanical design and built 3D models to support energy efficiency calculations and to communicate design intent to clients and architects.
-- Chaired meetings with clients and workshops with other engineering disciplines to confirm project requirements.
+- Led the mechanical design and built 3D models to support calculations and to communicate design intent to clients/architects.
+
