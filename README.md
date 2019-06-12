@@ -30,13 +30,13 @@ I am a keen technologist looking for new challenges and craving innovation. Alth
 
 ## <a name = "githubProjects">Projects</a>
 
-| Project     | Description | Demo | Technologies | Testing |
-|-------------|:-------------:|:------------:| :------------:| :------------:|
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
+| Project     | Description | Technologies | Testing |
+|-------------|:-------------:| :------------:| :------------:|
+| JARVIS | Phone App: Day's report for weather, commute and meetings | React-Native.js, Travis CI, JSLint | Jest, Enzyme, Cypress |
+| Acebook | Web App: Facebook clone | Ruby-on-Rails, Travis CI, Heroku CD | RSpec, Capybara, Simplecov |
+| Bank | Tech Test | JavaScript | Jasmine |
+| Echo | Tech Test | JavaScript | Jasmine |
+
 
 
 
