@@ -32,10 +32,10 @@ I am a keen technologist looking for new challenges and craving innovation. Alth
 
 | Project     | Description | Technologies | Testing |
 |-------------|:-------------:| :------------:| :------------:|
-| JARVIS | Phone App: Day's report for weather, commute and meetings | React-Native.js, Travis CI, JSLint | Jest, Enzyme, Cypress |
-| Acebook | Web App: Facebook clone | Ruby-on-Rails, Travis CI, Heroku CD | RSpec, Capybara, Simplecov |
-| Bank | Tech Test | JavaScript | Jasmine |
-| Echo | Tech Test | JavaScript | Jasmine |
+| [JARVIS](PROJECTLINK) | Phone App: Day's report for weather, commute and meetings | React-Native.js, Travis CI, JSLint | Jest, Enzyme, Cypress |
+| [Acebook](https://github.com/MaxRobertsDear/acebook-Isambard) | Web App: Facebook clone | Ruby-on-Rails, Travis CI, Heroku CD | RSpec, Capybara, Simplecov |
+| [Bank](PROJECTLINK) | Tech Test: App that handles deposits & withdrawals. Account statement (date, amount, balance) printing. Interaction via REPL. | JavaScript | Jasmine |
+| [Echo](PROJECTLINK) | Tech Test: CLI App. Asynchronous function. | JavaScript | Jasmine |
 
 
 
