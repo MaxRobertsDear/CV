@@ -97,7 +97,7 @@ The self-led curriculum at Makers Academy developed my skills in applying a meth
 * Strengthened my ability to break computational challenges down into simple steps.  
   * Exemplified by the high grades achieved across the board in Mathematics. 
   
-<center>
+
 
 | Module | Grade |
 | :----: | :---: |
@@ -105,23 +105,7 @@ The self-led curriculum at Makers Academy developed my skills in applying a meth
 | Computational Mathematics | 1st |
 | Mathematics for Engineering Modelling | 1st |
 
-</center>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg .tg-lqy6{text-align:right;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-  <tr>
-    <th class="tg-lqy6">uhuh</th>
-    <th class="tg-0lax">uhuh</th>
-    <th class="tg-0lax">uhuh</th>
-    <th class="tg-0lax">uhuh</th>
-  </tr>
-</table>
 
 This aptitude has served me well in algorithm design. I break the logic down into increasingly smaller steps. I continue this process until the code required to compute a step can be written on a single line (e.g. [Echo-Challenge](LINK)).
 
