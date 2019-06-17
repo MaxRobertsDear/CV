@@ -34,7 +34,6 @@ I am a keen technologist looking for new challenges and craving innovation. Alth
 |:-----------:|:-------------:| :------------:| :------------:|
 | [JARVIS](https://github.com/MaxRobertsDear/Jarvis-App) | Phone App: Day's report for weather, commute and meetings | React-Native.js, Travis CI, JSLint | Jest, Enzyme, Cypress |
 | [Acebook](https://github.com/MaxRobertsDear/acebook-Isambard) | Web App: Facebook clone | Ruby-on-Rails, HTML, CSS, ActiveRecord (Postgres), Travis CI, Heroku CD | RSpec, Capybara, Simplecov |
-| [Bank](PROJECTLINK) | Tech Test: App that handles deposits & withdrawals. Account statement (date, amount, balance) printing. Interaction via REPL. | JavaScript | Jasmine |
 | [Echo](https://github.com/MaxRobertsDear/Echo/blob/master/README.md) | Tech Test: CLI App. Asynchronous function. | JavaScript | Jasmine |
 | [Blog](https://www.maxrobertsdear.com/) | A space for sharing my learnings, the technical challenges I faced and how I overcame them | Gatsby.js, React, HTML, CSS, GraphQL, Netlify (CD) | n/a |
 
@@ -44,7 +43,7 @@ I am a keen technologist looking for new challenges and craving innovation. Alth
 #### Experience in the following industry best practices:
 
 * **Agile:** [Acebook](https://github.com/MaxRobertsDear/acebook-Isambard) - Stand Ups, Sprints, Pair programming, Mobbing (see [Wiki](https://github.com/MaxRobertsDear/acebook-Isambard/wiki)).
-* **Test- Driven Development:** [Bank-Tech-Test](LINK), [Echo-Tech-Test](https://github.com/MaxRobertsDear/Echo/blob/master/README.md) - Feature tests, Unit Tests, Mocks, Stubs.
+* **Test- Driven Development:** [Echo-Tech-Test](https://github.com/MaxRobertsDear/Echo/blob/master/README.md) - Feature tests, Unit Tests, Mocks, Stubs.
 * **Pair Programming:**  - I enjoy pairing and have received [positive feedback](https://github.com/MaxRobertsDear/Pair-Programming-Feedback/blob/master/README.md).
 * **Automated Testing & Deployment**  - [Acebook](https://github.com/MaxRobertsDear/acebook-Isambard) - CICD using Travis and Heroku, respectively.
 
