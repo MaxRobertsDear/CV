@@ -37,6 +37,7 @@ I am a keen technologist looking for new challenges and craving innovation. Alth
 | [Acebook](https://github.com/MaxRobertsDear/acebook-Isambard) | Web App: Facebook clone | Ruby-on-Rails, HTML, CSS, ActiveRecord (Postgres), Travis CI, Heroku CD | RSpec, Capybara, Simplecov |
 | [Bank](PROJECTLINK) | Tech Test: App that handles deposits & withdrawals. Account statement (date, amount, balance) printing. Interaction via REPL. | JavaScript | Jasmine |
 | [Echo](PROJECTLINK) | Tech Test: CLI App. Asynchronous function. | JavaScript | Jasmine |
+| [Blog](https://www.maxrobertsdear.com/) | A space for sharing my learnings, the technical challenges I faced and how I overcame them | Gatsby.js, React, HTML, CSS, GraphQL, Netlify (CD) | n/a |
 
 
 ## <a name = "skills">Skills</a>
