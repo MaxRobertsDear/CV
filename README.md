@@ -4,7 +4,6 @@
 [Blog](https://www.maxrobertsdear.com/) | 
 [Projects](#githubProjects) | 
 [Skills](#skills) | 
-[What Drives Me](#drivers) | 
 [Education](#education) | 
 [Professional Experience](#professionalExperience) 
  
@@ -33,7 +32,7 @@ I am a keen technologist looking for new challenges and craving innovation. Alth
 
 | Project     | Description | Technologies | Testing |
 |:-----------:|:-------------:| :------------:| :------------:|
-| [JARVIS](PROJECTLINK) | Phone App: Day's report for weather, commute and meetings | React-Native.js, Travis CI, JSLint | Jest, Enzyme, Cypress |
+| [JARVIS](https://github.com/MaxRobertsDear/Jarvis-App) | Phone App: Day's report for weather, commute and meetings | React-Native.js, Travis CI, JSLint | Jest, Enzyme, Cypress |
 | [Acebook](https://github.com/MaxRobertsDear/acebook-Isambard) | Web App: Facebook clone | Ruby-on-Rails, HTML, CSS, ActiveRecord (Postgres), Travis CI, Heroku CD | RSpec, Capybara, Simplecov |
 | [Bank](PROJECTLINK) | Tech Test: App that handles deposits & withdrawals. Account statement (date, amount, balance) printing. Interaction via REPL. | JavaScript | Jasmine |
 | [Echo](PROJECTLINK) | Tech Test: CLI App. Asynchronous function. | JavaScript | Jasmine |
@@ -56,7 +55,7 @@ I am a keen technologist looking for new challenges and craving innovation. Alth
 
 #### Software Engineering Course: Makers Academy (2019)
 
-In the pursuit of a more challenging career, I decided upon Software engineering (and wrote a [blog post](LINK) about it). 
+In the pursuit of a more challenging career, I decided upon Software engineering (and wrote a [blog post](https://www.maxrobertsdear.com/mech-to-software/) about it). 
 * TLDR: more challenging, greater variation in work, faster paced environment, young (and exciting) industry.
 
 The self-led curriculum at Makers Academy developed my skills in applying a methodical approach to solving new problems using industry best practice:
@@ -83,7 +82,7 @@ The self-led curriculum at Makers Academy developed my skills in applying a meth
 | Mathematics for Engineering Modelling | 1st |
 
 
-This aptitude has served me well in algorithm design. I break the logic down into increasingly smaller steps. I continue this process until the code required to compute a step can be written on a single line (e.g. [Echo-Challenge](LINK)).
+This aptitude has served me well in algorithm design. I break the logic down into increasingly smaller steps. I continue this process until the code required to compute a step can be written on a single line (e.g. [JARVIS](https://github.com/MaxRobertsDear/Jarvis-App)).
 
 **Master's Final Year Project**  
 My passion for progressive technologies led me to build a [lung-on-a-chip](https://www.linkedin.com/in/maxrobertsdear/#experience-section) (Experience Section - Research Assistant).
