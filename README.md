@@ -59,7 +59,7 @@ In the pursuit of a more challenging career, I decided upon Software engineering
 
 The self-led curriculum at Makers Academy developed my skills in applying a methodical approach to solving new problems using industry best practice:
 
-* [OOP](https://www.maxrobertsdear.com/Acebook-8/) [TDD](https://www.maxrobertsdear.com/os-w2/), [MVC](https://www.maxrobertsdear.com/Acebook-2/)
+* [OOP](https://www.maxrobertsdear.com/Acebook-8/), [TDD](https://www.maxrobertsdear.com/os-w2/), [MVC](https://www.maxrobertsdear.com/Acebook-2/)
 * [Agile](https://www.maxrobertsdear.com/Acebook-3/), [Extreme Programming (XP)](https://www.maxrobertsdear.com/Acebook-4/)
 * [Version control (Git)](https://www.maxrobertsdear.com/PC-W1/)
 * [Web standards accessibility](https://www.maxrobertsdear.com/) (Perform Lighthouse audit with google chrome tools)
