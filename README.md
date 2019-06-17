@@ -120,7 +120,7 @@ During my 2.5 years working as an engineering consultant at AECOM, ranked number
 - Responsible for technical delivery of projects by collaborating with other disciplines to design scalable solutions.
 - Continually improved our design process and solutions by arranging CPDs.
 - Wrote technical reports for clients.
-- Collaborated with engineers, contractors and architects to design the mechanical infrastructure for commercial and residential building projects as well as mission-critical projects such as data centres.
-- Developed models and calculations to carry out energy efficiency assessments and cost planning in order to deliver effective professional services and drive efficient solutions.
-- Led the mechanical design and built 3D models to support calculations and to communicate design intent to clients/architects.
+- Collaborated with multi-disciplinary teams to design the mech. infrastructure for projects such as [Peninsula Place](https://www.greenwichpeninsula.co.uk/whats-on/the-peninsulist/peninsula-place/).
+- Developed models to support energy efficiency assessments and cost planning.
+- Led the mechanical design and built 3D models to support energy efficiency assessments and cost planning.
 
