@@ -1,7 +1,16 @@
-[LinkedIn](https://www.linkedin.com/in/maxrobertsdear/) | [Blog](https://www.maxrobertsdear.com/) | [Projects](#githubProjects) | [Skills](#skills) | [What Drives Me](#drivers) | [Education](#education) | [Professional Experience](#professionalExperience) 
----
+<div align ="center">
+ 
+[LinkedIn](https://www.linkedin.com/in/maxrobertsdear/) | 
+[Blog](https://www.maxrobertsdear.com/) | 
+[Projects](#githubProjects) | 
+[Skills](#skills) | 
+[What Drives Me](#drivers) | 
+[Education](#education) | 
+[Professional Experience](#professionalExperience) 
+ 
+</div>
 
-## Max Roberts-Dear
+<h1 align="center">Max Roberts-Dear</h1>
 
 #### Software Engineering Developer
 
