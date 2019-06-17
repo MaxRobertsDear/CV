@@ -51,42 +51,20 @@ I am a keen technologist looking for new challenges and craving innovation. Alth
 
 
 
-## <a name = "drivers">What Drives Me - Motivations and Background</a> 
-
-Highly interested in technologies that bring about positive change. 
-
-**Master's Final Year Project**  
-My passion for progressive technologies led me to build a [lung-on-a-chip](https://www.linkedin.com/in/maxrobertsdear/#experience-section) (Experience Section - Research Assistant).
-
-* Rapid learning - I learned an entirely new discipline, biochemical engineering, for my final year project. 
-* Prototyping - I fabricated a simple example to familiarise myself with the process before adding complexity. 
-* Attention to detail - I was working to the micro mm (1×10^−6 m) to ensure a laminar flow along the channels.
-* Collaborative growth - though I completed the project alone, I reached out for guidance in lab methodologies. 
-
-**Engineering Consultant**  
-To enact positive change, I sought out a career in sustainable development. 
-
-* Communication - I liaised with stakeholders and multi-disciplinary teams to deliver energy efficient buildings on time, to spec, and on budget.
-* Presentation - I produced content for and presented at client meetings.
-* Workshops -  I led the mechanical discipline at external project workshops with multi-disciplinary teams.
-
-**New Challenge: Software Engineering**  
-In the pursuit of a more challenging career, I decided upon Software engineering (and wrote a [blog post](LINK) about it). 
-* TLDR: more challenging, greater variation in work, faster paced environment, young (and exciting) industry.
-
-
-
 ## <a name = "education">Education</a>
 
 
 #### Software Engineering Course: Makers Academy (2019)
 
+In the pursuit of a more challenging career, I decided upon Software engineering (and wrote a [blog post](LINK) about it). 
+* TLDR: more challenging, greater variation in work, faster paced environment, young (and exciting) industry.
+
 The self-led curriculum at Makers Academy developed my skills in applying a methodical approach to solving new problems using industry best practice:
 
 * [OOP](BLOGLINK) [TDD](BLOGLINK), [MVC](BLOGLINK)
 * [Agile](BLOGLINK), [Extreme Programming (XP)](BLOGLINK)
-* Version control software (Git) experience. 
-* Understanding of web standards accessibility and best practice.
+* Version control (Git)
+* Web standards accessibility 
 
 
 
@@ -109,18 +87,25 @@ The self-led curriculum at Makers Academy developed my skills in applying a meth
 
 This aptitude has served me well in algorithm design. I break the logic down into increasingly smaller steps. I continue this process until the code required to compute a step can be written on a single line (e.g. [Echo-Challenge](LINK)).
 
+**Master's Final Year Project**  
+My passion for progressive technologies led me to build a [lung-on-a-chip](https://www.linkedin.com/in/maxrobertsdear/#experience-section) (Experience Section - Research Assistant).
+
+* Rapid learning - I learned an entirely new discipline, biochemical engineering, for my final year project. 
+* Prototyping - I fabricated a simple example to familiarise myself with the process before adding complexity. 
+* Attention to detail - I was working to the micro mm (1×10^−6 m) to ensure a laminar flow along the channels.
+* Collaborative growth - though I completed the project alone, I reached out for guidance in lab methodologies. 
+
 
 
 ## <a name = "professionalExperience">Professional Experience</a>
 
 #### Mechanical Engineering Consultant (London September 2016 to April 2019)
-During my 2.5 years working as an engineering consultant at AECOM, ranked number 1 in the Engineering News Record, I liaised with clients and designed engineering solutions to meet the scope of their requirements.
+To enact positive change, I sought out a career in sustainable development. 
 
-- Mentored junior engineers by sharing my knowledge and helping them to deliver in line with industry best practice.
-- Responsible for technical delivery of projects by collaborating with other disciplines to design scalable solutions.
-- Continually improved our design process and solutions by arranging CPDs.
-- Wrote technical reports for clients.
-- Collaborated with multi-disciplinary teams to design the mech. infrastructure for projects such as [Peninsula Place](https://www.greenwichpeninsula.co.uk/whats-on/the-peninsulist/peninsula-place/).
-- Developed models to support energy efficiency assessments and cost planning.
-- Led the mechanical design and built 3D models to support energy efficiency assessments and cost planning.
+* Communication - I liaised with stakeholders and multi-disciplinary teams to deliver energy efficient buildings on time, to spec, and on budget.
+* Presentation - I produced content for and presented at client meetings.
+* Workshops -  I led the mechanical discipline at external project workshops with multi-disciplinary teams.
+* Technical reports - I wrote technical reports for clients, outlining design intent and case studies.
+* Up-skilling - I mentored junior engineers and organised CPD's to keep my team up-to-date technologically.
+
 
