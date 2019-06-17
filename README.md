@@ -45,7 +45,7 @@ I am a keen technologist looking for new challenges and craving innovation. Alth
 #### Experience in the following industry best practices:
 
 * **Agile:** [Acebook](https://github.com/MaxRobertsDear/acebook-Isambard) - Stand Ups, Sprints, Pair programming, Mobbing (see [Wiki](https://github.com/MaxRobertsDear/acebook-Isambard/wiki))
-* **Test- Driven Development:** [Bank-Tech-Test](LINK)[Echo-Tech-Test](LINK) - Feature tests, Unit Tests, Mocks, Stubs
+* **Test- Driven Development:** [Bank-Tech-Test](LINK), [Echo-Tech-Test](LINK) - Feature tests, Unit Tests, Mocks, Stubs
 * **Pair Programming:**  - I enjoy pairing and have received [positive feedback](https://github.com/MaxRobertsDear/Pair-Programming-Feedback/blob/master/README.md).
 * **Automated Testing & Deployment**  - [Acebook](https://github.com/MaxRobertsDear/acebook-Isambard) - CICD using Travis and Heroku, respectively.
 
