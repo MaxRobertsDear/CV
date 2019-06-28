@@ -13,7 +13,7 @@
 
 #### Software Engineering Developer
 
-I am a keen technologist looking for new challenges and craving innovation. Although my core competencies are in JavaScript and Ruby, my main asset is my pragmatic problem solving aptitude. There are always new frameworks and technologies, but these can be learned if you have a good understanding of systems and patterns. I enjoy solving problems and architecting solutions and my years of experience as an engineering consultant have taught me the importance of keeping the business problem that you are trying to solve in perspective.
+I am a technology enthusiast seeking new challenges and craving innovation. Though I am most fluent in JavaScript and Ruby (and German), my main asset is my pragmatic problem solving aptitude. There will always be new languages, technologies and frameworks. However, these can be learned, provided that you have an understanding of the processes and patterns. I enjoy designing solutions to problems and my years of experience as an engineering consultant have taught me the importance of keeping the business problem that you are trying to solve in perspective.
 
 
 #### What I'm looking for in a team
