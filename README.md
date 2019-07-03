@@ -24,7 +24,7 @@ I am a technology enthusiast seeking new challenges and craving innovation. Thou
 * Technologically relevent - by staying up to date with the latest tools and industry best practice. 
   * I organised the Continual Professional Development at my previous firm, and would happily do so again.
 * Social environment - I want to know the team members as more than colleagues. 
-  * Not got a big drinking culture? That's fine. Climbing and white water rafting are just as fu
+  * Not got a big drinking culture? That's fine. Climbing and white water rafting are just as fun!
   
 **Winner of Blogging competition, with my blog post featured in [Makers' article]( https://blog.makersacademy.com/we-are-all-makers-blog-winners-f88fd42c3369)**
 
