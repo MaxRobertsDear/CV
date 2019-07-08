@@ -21,7 +21,7 @@ I am a technology enthusiast seeking new challenges and craving innovation. Thou
 * Collaborative environment - where alternative schools of thought are valued.
 * Celebrated innovation -  through the sharing of new ideas with the wider tech community via Meetups. 
   * Not done currently? I have experience in organising events and would love to kickstart this.
-* Technologically relevent - by staying up to date with the latest tools and industry best practice. 
+* Technologically relevant - by staying up to date with the latest tools and industry best practice. 
   * I organised the Continual Professional Development at my previous firm, and would happily do so again.
 * Social environment - I want to know the team members as more than colleagues. 
   * Not got a big drinking culture? That's fine. Climbing and white water rafting are just as fun!
