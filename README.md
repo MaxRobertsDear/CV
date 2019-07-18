@@ -34,7 +34,7 @@ I am a technology enthusiast seeking new challenges and craving innovation. Thou
 |:-----------:|:-------------:| :------------:| :------------:|
 | [JARVIS](https://github.com/MaxRobertsDear/Jarvis-App) | Phone App: Day's report for weather, commute and meetings | React-Native.js, Travis CI, JSLint | Jest, Enzyme, Cypress |
 | [Acebook](https://github.com/MaxRobertsDear/acebook-Isambard) | Web App: Facebook clone | Ruby-on-Rails, HTML, CSS, ActiveRecord (Postgres), Travis CI, Heroku CD | RSpec, Capybara, Simplecov |
-| [Echo](https://github.com/MaxRobertsDear/Echo/blob/master/README.md) | Tech Test: CLI App. Asynchronous function. | JavaScript | Jasmine |
+| [Echo](https://github.com/MaxRobertsDear/Echo-Extended/blob/master/README.md) | Tech Test: CLI App. Asynchronous function. | JavaScript | Jasmine |
 | [Blog](https://www.maxrobertsdear.com/) | A space for sharing my learnings, the technical challenges I faced and how I overcame them | Gatsby.js, React, HTML, CSS, GraphQL, Netlify (CD) | n/a |
 
 
