@@ -13,7 +13,7 @@
 
 #### Software Engineering Developer
 
-I am a technology enthusiast seeking new challenges and craving innovation. Though I am most fluent in JavaScript and Ruby, my main asset is my pragmatic problem solving aptitude. There will always be new languages, technologies and frameworks. However, these can be learned, provided that you have an understanding of the processes and patterns. I enjoy designing solutions to problems and my years of experience as an engineering consultant have taught me the importance of keeping the business problem that you are trying to solve in perspective.
+I am a technology enthusiast seeking new challenges and craving innovation. Though I am most proficient in JavaScript and Ruby, my main asset is my pragmatic problem solving aptitude. There will always be new languages, technologies and frameworks. However, these can be learned, provided that you have an understanding of the processes and patterns. I enjoy designing solutions to problems and my years of experience as an engineering consultant have taught me the importance of keeping the business problem that you are trying to solve in perspective.
 
 
 #### What I'm looking for in a team
@@ -27,6 +27,9 @@ I am a technology enthusiast seeking new challenges and craving innovation. Thou
   * Not got a big drinking culture? That's fine. Climbing and white water rafting are just as fun!
   
 **Winner of Blogging competition, with my blog post featured in [Makers' article]( https://blog.makersacademy.com/we-are-all-makers-blog-winners-f88fd42c3369)**
+
+**[Strategy Workshops](https://www.maxrobertsdear.com/Strategy-Coaching/) - I run 1-on-1 workshops with the aim of helping my peers realise how to use their time most effectively during their job hunt.**
+
 
 ## <a name = "githubProjects">Projects</a>
 
